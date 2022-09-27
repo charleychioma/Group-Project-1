@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #a5bd84;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    top: 0;
+    background-color: #4f6136;
+    background-size: 50%;
+    position: sticky;
+}
+
+nav{
+    background-color: #ec8482;
+    color: #f9cac3;
+    padding: 20px;
+    position: sticky;
+}
+
+.victor{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about-victor h2{
+    color: #ec8482;
+    font-size: 48pt;
+}
+
+.about-victor h3{
+    color: #5f6d4c;
+    font-size: 32pt
+}
+
+.victor-summary p{
+    color: #5f6d4c;
+    font-size: 28pt;
+}
+
+
+.about-victor img{
+    height: 300px;
+}
