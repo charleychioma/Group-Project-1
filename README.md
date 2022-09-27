@@ -19,8 +19,8 @@ Pho Phimvongsa
 Victor Soto
 
 <h2>Wireframe</h2>
-<img src= "./images/wireframe1.png">
-<img src= "./images/wireframe2.png">
+<img src= "./images/wireframe1.jpg">
+<img src= "./images/wireframe2.jpg">
 
 <h2>Screenshots</h2>
-<img src= "./images/homepage.png">
+<img src= "./images/homepage.jpg">
